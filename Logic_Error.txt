@@ -1,0 +1,7 @@
+Animation auto call
+      - this.createObserver()
+       
+       -this.animateOut()
+
+Navigation 
+	on visit /about images and nav
